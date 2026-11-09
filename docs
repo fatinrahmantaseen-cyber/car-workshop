@@ -1,0 +1,98 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Fatin Rahman Taseen
+Student ID: 22299002
+Assignment: 02
+Date: 09/11/26
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[✔] ChatGPT
+[ ] GitHub Copilot
+[✔] Google Gemini
+[✔] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[✔] Learning/understanding concepts
+[✔] Debugging my code 
+[ ] Generating code snippets
+[✔] Writing text content
+[✔] Design/styling ideas
+[✔] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+ I used AI as a learning assistant to understand how to write PHP code, create and manage SQL databases, connect PHP with MySQL, and integrate the different parts of the project. AI helped me learn the concepts and solve technical issues, while I worked on understanding and implementing the project myself. Also learn how to use xampp and some issues with the code. 
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: index.php                     Section: Appointment booking form validation and dynamic mechanic availability display.
+
+File: actions/book-appointment.php  Section: Server-side booking validation, duplicate appointment prevention, and mechanic capacity checking.
+
+File: includes/functions.php        Section: Database queries and calculation of available appointment slots for each mechanic.
+
+File: admin/edit-appointment.php    Section: Appointment rescheduling validation and mechanic availability checking.
+
+File: config/database.php           Section: PHP and MySQL database connection using PDO.
+
+File: assets/js/script.js           Section: AJAX-based availability updates and client-side form validation.
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+------------------------------------------------------------
+6. Prompts
+------------------------------------------------------------
+1. Understand the project
+2. Help me plan the structure of a car workshop appointment booking website using HTML, CSS, PHP, and MySQL.
+3. How to use xampp
+4. Explain how to connect a PHP project with a MySQL database using PDO
+5. Show me how to create MySQL tables for mechanics, appointments, and administrators.
+6. How can I insert appointment form data into a MySQL database using PHP
+7. Help me create a PHP appointment booking form with client information and mechanic selection
+8. How can I prevent a client from booking more than one appointment on the same date?
+9. How can I limit each mechanic to four active appointments per day?
+10. Help me create a simple admin login system using PHP sessions
+11. How can an administrator view, update, and reschedule customer appointments?
+12. How can I prevent rescheduling if the selected mechanic is already fully booked? 
+13. Help me design a clean and responsive car workshop website using HTML and CSS.
+14. How can I use JavaScript to validate form inputs and update mechanic availability without refreshing the page?
+15. Help me understand and fix PHP database connection errors in XAMPP
+16. How can I test my appointment booking system and check whether the database stores information correctly?
+17. Review my PHP code and explain any errors or improvements in simple language.
+18. Tell me the command to push it to git. 
+
+ 
+
+
+Signature: TASEEN
+Date: 09/11/26
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
+
