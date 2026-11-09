@@ -1,0 +1,30 @@
+# Environment and secret configuration files
+.env
+.env.*
+*.env
+*.secret
+
+# Local test and debug scripts
+test-db.php
+test_*.php
+test-*.php
+
+# Log files and temporary directories
+*.log
+*.tmp
+*.temp
+/tmp/
+/temp/
+
+# Operating System generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+._*
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
